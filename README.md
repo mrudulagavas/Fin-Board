@@ -28,7 +28,7 @@ Analyze a company’s Balance Sheet, Income Statement, and Cash Flow with varian
 
 Easily discover and analyze stocks based on market cap, P/E ratio, dividend yield, and other customizable filters.
 
-![Stock Screener](./Stock Screener.png)
+![Stock Screener](./image/Stock Screener.png)
 
 ---
 
