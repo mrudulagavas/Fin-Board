@@ -1,9 +1,9 @@
-# 📈 Stock Analytics Dashboard
+# 📈 FINANALYTICS
 
 
 ## 🌟 Overview
 
-**Stock Analytics Dashboard** is a powerful, interactive platform that combines visual financial intelligence with enterprise-grade tools for investors and analysts. Built using **React.js** and **FastAPI**, it enables seamless exploration of financial statements, screening capabilities, and smart file management.
+**FINANALYTICS** is a powerful, interactive platform that combines visual financial intelligence with enterprise-grade tools for investors and analysts. Built using **React.js** and **FastAPI**, it enables seamless exploration of financial statements, screening capabilities, and smart file management.
 
 ---
 
@@ -80,8 +80,8 @@ Organize, upload, and download critical financial reports and templates. Feature
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/stock-analytics-dashboard.git
-cd stock-analytics-dashboard
+git clone https://github.com/mrudulagavas/react-stock-dashboard.git
+cd react-stock-dashboard
 
 # Install frontend dependencies
 cd frontend
