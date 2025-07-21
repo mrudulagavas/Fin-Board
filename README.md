@@ -1,62 +1,83 @@
 # 📈 Stock Analytics Dashboard
 
+![Header](./screenshot.png)
 
 ## 🌟 Overview
 
-**Stock Analytics Dashboard** is a cutting-edge platform designed to empower financial analysts and investors with real-time data-driven insights. Built using **React.js** and **FastAPI**, it seamlessly bridges intuitive UI design with powerful backend analytics. The system provides three robust tools:
-
-- 🔎 **Stock Ratio Dashboard** – Analyze key financial ratios from Balance Sheets, Income Statements, and Cash Flows
-- 📊 **Stock Screener** – Discover high-potential stocks using filters like P/E ratio, market cap, and sector
-- 📁 **File Management System** – Upload, organize, and share reports with ease
+**Stock Analytics Dashboard** is a powerful, interactive platform that combines visual financial intelligence with enterprise-grade tools for investors and analysts. Built using **React.js** and **FastAPI**, it enables seamless exploration of financial statements, screening capabilities, and smart file management.
 
 ---
 
 ## ✨ Key Features
 
-### 📊 Stock Ratio Dashboard
-- Tabbed interface for financial statements
-- Visual cues for ratio deviations vs. industry benchmarks
-- Time-series trend graphs and interactive analytics
+### 📊 1. Stock Ratio Dashboard
 
-### 🔍 Stock Screener
-- Advanced filters (e.g., sector, market cap, valuation metrics)
-- Real-time pagination and sorting
-- One-click redirection to detailed ratio view
+Analyze a company’s Balance Sheet, Income Statement, and Cash Flow with variance indicators and trend visualizations.
 
-### 📁 Report File Management
-- Secure upload with real-time progress tracking
-- Organize files by type and importance (starring system)
-- Download pre-defined financial templates (DCF, LBO models, etc.)
+#### 🧾 Balance Sheet Ratios  
+![Balance Sheet](./Screenshot%202025-07-21%20184939.png)
+
+#### 💰 Income Statement Ratios  
+![Income Statement](./Screenshot%202025-07-21%20184956.png)
+
+#### 💸 Cash Flow Ratios  
+![Cash Flow](./Screenshot%202025-07-21%20185021.png)
+
+---
+
+### 🔍 2. Stock Screener
+
+Easily discover and analyze stocks based on market cap, P/E ratio, dividend yield, and other customizable filters.
+
+![Stock Screener](./Screenshot%202025-07-21%20185044.png)
+
+---
+
+### 📁 3. File Management System
+
+Organize, upload, and download critical financial reports and templates. Features include:
+- ⭐ Mark as important
+- 📤 Upload with success notifications
+- 📂 Prebuilt templates for DCF and comparable analysis
+
+#### 📂 My Files
+![My Files](./Screenshot%202025-07-21%20185103.png)
+
+#### 📥 Templates Section
+![Templates](./Screenshot%202025-07-21%20185204.png)
+
+#### 🤝 Shared With Me
+![Shared Files](./Screenshot%202025-07-21%20185221.png)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎯 Frontend
-- **React.js** – Modular, responsive components using Hooks
-- **Material-UI** – Sleek, professional design system
-- **React Router** – Multi-page routing
-- **Axios** – Smooth API integration
+### Frontend
+- **React.js** – Component-based architecture
+- **Material-UI** – For rich and responsive UI
+- **React Router** – Navigation
+- **Axios** – API communication
 
-### ⚙️ Backend
-- **FastAPI** – Asynchronous Python backend with blazing speed
-- **Pydantic** – Robust data models with type enforcement
-- **Python** – Custom financial logic and data sanitization
+### Backend
+- **FastAPI** – Fast, modern Python-based API
+- **Pydantic** – Data parsing and validation
+- **Custom Python Modules** – Financial logic
 
-### 🔌 Data Sources
-- External APIs: *Yahoo Finance*, *Alpha Vantage*, others
-- Custom ingestion pipelines for scalability
+### Data Sources
+- Yahoo Finance, Alpha Vantage APIs
+- Internal CSV processing and ingestion pipelines
 
 ---
 
 ## 🚀 Getting Started
 
-### 📦 Prerequisites
+### ⚙️ Prerequisites
 - Node.js (v14+)
 - Python (3.8+)
 - npm or yarn
 
-### 🔧 Installation
+### 🧩 Setup
 
 ```bash
 # Clone the repository
@@ -68,7 +89,7 @@ cd frontend
 npm install
 npm start
 
-# Run backend server
+# Install backend dependencies and run server
 cd ../backend
 pip install -r requirements.txt
 uvicorn main:app --reload
