@@ -14,13 +14,13 @@
 Analyze a company’s Balance Sheet, Income Statement, and Cash Flow with variance indicators and trend visualizations.
 
 #### 🧾 Balance Sheet Ratios  
-![Balance Sheet](./Balance Sheet.png)
+![Balance Sheet](./image/BalanceSheet.png)
 
 #### 💰 Income Statement Ratios  
-![Income Statement](./Income Statement.png)
+![Income Statement](./image/IncomeStatement.png)
 
 #### 💸 Cash Flow Ratios  
-![Cash Flow](./Cash Flow.png)
+![Cash Flow](./image/CashFlow.png)
 
 ---
 
@@ -28,7 +28,7 @@ Analyze a company’s Balance Sheet, Income Statement, and Cash Flow with varian
 
 Easily discover and analyze stocks based on market cap, P/E ratio, dividend yield, and other customizable filters.
 
-![Stock Screener](./image/Stock Screener.png)
+![Stock Screener](./image/StockScreener.png)
 
 ---
 
@@ -40,13 +40,13 @@ Organize, upload, and download critical financial reports and templates. Feature
 - 📂 Prebuilt templates for DCF and comparable analysis
 
 #### 📂 My Files
-![My Files](./File-Management.png)
+![My Files](./image/File-Management.png)
 
 #### 📥 Templates Section
-![Templates](./FM-Templates.png)
+![Templates](./image/FM-Templates.png)
 
 #### 🤝 Shared With Me
-![Shared Files](./FM-Shared with me.png)
+![Shared Files](./image/FM-Sharedwithme.png)
 
 ---
 
