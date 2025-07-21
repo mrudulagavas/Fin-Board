@@ -1,6 +1,5 @@
 # 📈 Stock Analytics Dashboard
 
-![Header](./screenshot.png)
 
 ## 🌟 Overview
 
@@ -15,13 +14,13 @@
 Analyze a company’s Balance Sheet, Income Statement, and Cash Flow with variance indicators and trend visualizations.
 
 #### 🧾 Balance Sheet Ratios  
-![Balance Sheet](./Screenshot%202025-07-21%20184939.png)
+![Balance Sheet](./Balance Sheet.png)
 
 #### 💰 Income Statement Ratios  
-![Income Statement](./Screenshot%202025-07-21%20184956.png)
+![Income Statement](./Income Statement.png)
 
 #### 💸 Cash Flow Ratios  
-![Cash Flow](./Screenshot%202025-07-21%20185021.png)
+![Cash Flow](./Cash Flow.png)
 
 ---
 
@@ -29,7 +28,7 @@ Analyze a company’s Balance Sheet, Income Statement, and Cash Flow with varian
 
 Easily discover and analyze stocks based on market cap, P/E ratio, dividend yield, and other customizable filters.
 
-![Stock Screener](./Screenshot%202025-07-21%20185044.png)
+![Stock Screener](./Stock Screener.png)
 
 ---
 
@@ -41,13 +40,13 @@ Organize, upload, and download critical financial reports and templates. Feature
 - 📂 Prebuilt templates for DCF and comparable analysis
 
 #### 📂 My Files
-![My Files](./Screenshot%202025-07-21%20185103.png)
+![My Files](./File-Management.png)
 
 #### 📥 Templates Section
-![Templates](./Screenshot%202025-07-21%20185204.png)
+![Templates](./FM-Templates.png)
 
 #### 🤝 Shared With Me
-![Shared Files](./Screenshot%202025-07-21%20185221.png)
+![Shared Files](./FM-Shared with me.png)
 
 ---
 
